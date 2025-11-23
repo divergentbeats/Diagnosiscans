@@ -25,4 +25,7 @@ DiagnosisScans is a simple and intuitive web interface that showcases different 
 ## Live Demo(No backend)
 [diagnosiscans.netlify.app](https://diagnosiscans.netlify.app/)
 
+## My Experience
+This was the first website I had built for my college activity based assessment and it only uses plain html, css and javascript for small functions. Its a static page hosted directly in netlify.
+
 
