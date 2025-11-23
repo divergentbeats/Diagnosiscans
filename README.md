@@ -23,6 +23,6 @@ DiagnosisScans is a simple and intuitive web interface that showcases different 
 - JavaScript (Vanilla)
 
 ## Live Demo(No backend)
-(diagnosiscans.netlify.app)
+[diagnosiscans.netlify.app](https://diagnosiscans.netlify.app/)
 
 
